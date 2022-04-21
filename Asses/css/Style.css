@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+
+*{
+   padding: 0; 
+   margin: 0;
+}
+
+        header {
+            background-color: rgb(230, 39, 39);
+            align-items: center;
+            padding: 1rem;
+            text-align: center;
+            -o-border-image: ;
+            padding: 30pix;
+                          }
+
+                                                                     
+
+                          #img{
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: center;
+                            padding: 0 0 1rem 0;
+                          }
+
+                          header h1{
+                            padding: 2rem 2rem 1rem 2rem;
+                            color: white;
+                            font-size: 2rem;
+                            text-align: center;
+                            font-family: Fugaz One, sans-serif;   
+                        }
+        
+                        h2 {
+                          display: flex;
+                      }
+                      
+                      h3 {
+                          display: flex;
+                      }
+                      
+                      #button {
+                          display: flex;
+                          flex-direction: row;
+                          justify-content: center;
+                          padding: 1rem;
+                      }
+                      
+                      #but {
+                        color: black;
+                        border-radius: 8px;
+                        font-family: Fugaz One;
+                        font-size: 1rem;
+                        padding: 0.4rem;
+                      }
+
+                                              
+                      }
+                      
+                      #alt {
+                          display: flex;
+                          flex-direction: row;
+                          justify-content: center;
+                          flex-wrap: wrap;
+                      }
+                      
+                      section div#texto {
+                          color: rgb(0, 0, 0);
+                          padding: 6.5rem;
+                          font-family: Fugaz One;
+                          font-size: 1.3rem;
+                      }
+                      
+                      main img#zeca{
+                          display: flex;
+                          padding: 1.5rem;
+                      }
+                      
+  body {
+      background-image: url(../Imagens/beer.jpg);
+      width: 100%;
+      
+  }
+
+ 
+
+  footer {
+    background-color: rgb(230, 39, 39);
+    align-items: center;
+    padding: 1rem;
+    text-align: center;
+                      }
+
+                      footer a{
+                        color: white);
+                        text-decoration: none;
+                    }
